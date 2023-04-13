@@ -1,0 +1,15 @@
+C:\Users\45922978810\Desktop\Lista de exercicios 13042023\bin\Debug\net7.0\Lista de exercicios 13042023.exe
+C:\Users\45922978810\Desktop\Lista de exercicios 13042023\bin\Debug\net7.0\Lista de exercicios 13042023.deps.json
+C:\Users\45922978810\Desktop\Lista de exercicios 13042023\bin\Debug\net7.0\Lista de exercicios 13042023.runtimeconfig.json
+C:\Users\45922978810\Desktop\Lista de exercicios 13042023\bin\Debug\net7.0\Lista de exercicios 13042023.dll
+C:\Users\45922978810\Desktop\Lista de exercicios 13042023\bin\Debug\net7.0\Lista de exercicios 13042023.pdb
+C:\Users\45922978810\Desktop\Lista de exercicios 13042023\obj\Debug\net7.0\Lista de exercicios 13042023.csproj.AssemblyReference.cache
+C:\Users\45922978810\Desktop\Lista de exercicios 13042023\obj\Debug\net7.0\Lista de exercicios 13042023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45922978810\Desktop\Lista de exercicios 13042023\obj\Debug\net7.0\Lista de exercicios 13042023.AssemblyInfoInputs.cache
+C:\Users\45922978810\Desktop\Lista de exercicios 13042023\obj\Debug\net7.0\Lista de exercicios 13042023.AssemblyInfo.cs
+C:\Users\45922978810\Desktop\Lista de exercicios 13042023\obj\Debug\net7.0\Lista de exercicios 13042023.csproj.CoreCompileInputs.cache
+C:\Users\45922978810\Desktop\Lista de exercicios 13042023\obj\Debug\net7.0\Lista de exercicios 13042023.dll
+C:\Users\45922978810\Desktop\Lista de exercicios 13042023\obj\Debug\net7.0\refint\Lista de exercicios 13042023.dll
+C:\Users\45922978810\Desktop\Lista de exercicios 13042023\obj\Debug\net7.0\Lista de exercicios 13042023.pdb
+C:\Users\45922978810\Desktop\Lista de exercicios 13042023\obj\Debug\net7.0\Lista de exercicios 13042023.genruntimeconfig.cache
+C:\Users\45922978810\Desktop\Lista de exercicios 13042023\obj\Debug\net7.0\ref\Lista de exercicios 13042023.dll
