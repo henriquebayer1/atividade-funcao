@@ -60,24 +60,24 @@ static float combustivelCalc()
             if (quantidadeCombustivel < 20)
             {
                 descontoPorLitroGasolina = ((quantidadeCombustivel / 100) * 6);
-                valorFinalCombustivel = descontoPorLitroGasolina * quantidadeCombustivel;
+                valorFinalCombustivel = (valorgasolina * descontoPorLitroGasolina) * quantidadeCombustivel;
             }
             else
             {
                 descontoPorLitroGasolina = ((quantidadeCombustivel / 100) * 4);
-                valorFinalCombustivel = descontoPorLitroGasolina * quantidadeCombustivel;
+                valorFinalCombustivel = (valorgasolina * descontoPorLitroGasolina) * quantidadeCombustivel;
             }
             break;
         case 2:
             if (quantidadeCombustivel < 20)
             {
                 descontoPorLitroAlcool = ((quantidadeCombustivel / 100) * 5);
-                valorFinalCombustivel = descontoPorLitroAlcool * quantidadeCombustivel;
+                valorFinalCombustivel = (valoralcool * descontoPorLitroAlcool) * quantidadeCombustivel;
             }
             else
             {
                 descontoPorLitroAlcool = ((quantidadeCombustivel / 100) * 3);
-                valorFinalCombustivel = valoralcool * quantidadeCombustivel;
+                valorFinalCombustivel = (valoralcool * descontoPorLitroAlcool) * quantidadeCombustivel;
             }
             break;
         default:
@@ -88,7 +88,7 @@ static float combustivelCalc()
     return 0;
 }
 
-
+combustivelCalc();
 
 
 
